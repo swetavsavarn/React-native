@@ -14,7 +14,6 @@ function App() {
       <Button title="daba"></Button>
       <Button title="na"></Button>
       <Button title="daba bhi de" onPress={()=>alert("laurA DE LAHSUN")}></Button>
-      {console.log("waah")}
     </View>
   );
 }
